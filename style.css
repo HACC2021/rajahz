@@ -10,6 +10,14 @@ body {
  	margin: 8px;
 }
 
+
+header {
+	background-color: #F4D40B;
+	padding: 5px;
+	box-shadow: 0 0 3px #000;
+}
+
+
 header li {
 	display: inline;
 	padding-left: 45px;

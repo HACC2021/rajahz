@@ -25,3 +25,7 @@ li {
 	padding: 13px;
 	transition: .3s ease;
 }
+
+a:hover {
+	color: #43E0EA;	
+}

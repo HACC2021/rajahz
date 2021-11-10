@@ -3,9 +3,14 @@ body {
 }
 
 #titleHeader {
-  padding: 5px;
-  font-size: 20px;
-  text-align: left;
-  display: block;
-  margin: 8px;
+ 	padding: 5px;
+ 	font-size: 20px;
+ 	text-align: left;
+ 	display: block;
+ 	margin: 8px;
+}
+
+header li {
+	display: inline;
+	padding-left: 45px;
 }

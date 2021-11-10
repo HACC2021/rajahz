@@ -31,7 +31,8 @@ a:hover {
 }
 
 #touristImage {
-	padding: 50px;
+	position: relative;
+	padding: 200px;
 	display: inline;
 }
 

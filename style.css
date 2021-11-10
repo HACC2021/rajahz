@@ -33,3 +33,18 @@ a:hover {
 #touristImage {
 	display: inline;
 }
+
+#touristSeal {
+	width: 100%;
+	height: 100%;
+}
+
+#touristHike {
+	width: 100%;
+	height: 100%;
+}
+
+#touristBeach {
+	width: 100%;
+	height: 100%;
+}

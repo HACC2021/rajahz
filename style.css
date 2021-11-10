@@ -3,9 +3,11 @@ body {
 }
 
 #titleHeader {
+  background-color: #F4D40B;
   border: 3px solid white;
   padding: 5px;
-  font-size: 35px;
+  font-size: 20px;
   text-align: center;
-
+  display: block;
+  margin: 8px;
 }

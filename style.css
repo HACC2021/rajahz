@@ -22,5 +22,6 @@ header {
 
 li {
 	display: inline;
-	padding-left: 45px;
+	padding: 13px;
+	transition: .3s ease;
 }

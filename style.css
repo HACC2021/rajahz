@@ -4,10 +4,15 @@ body {
 
 #titleHeader {
 	background-color: #F4D40B;
-	height: 100%;
 	width: 100%;
-	font-family: Palatino, URW Palladio L, serif;
-	position: top;
-	text-align: center;
-
+    	height: 100vh;
+    	position: fixed;
+    	text-align: left;
+   	cursor: default;
+   	margin: 0px;
+    	padding: 0px;
+    	text-indent: 0px;
+    	transition: all 0.8s ease 0s;
+    	z-index: 9999;
+    	display: none;
 }

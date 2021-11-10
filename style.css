@@ -37,14 +37,17 @@ a:hover {
 #touristSeal {
 	width: 100%;
 	height: 100%;
+	display: inline;
 }
 
 #touristHike {
 	width: 100%;
 	height: 100%;
+	display: inline;
 }
 
 #touristBeach {
 	width: 100%;
 	height: 100%;
+	display: inline;
 }

@@ -32,7 +32,7 @@ a:hover {
 
 #touristImage {
 	padding: 1px;
-	display: inline;
+	display: block;
 	align: center;
 	margin-top: 5px;
 }

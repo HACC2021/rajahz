@@ -29,3 +29,8 @@ li {
 a:hover {
 	color: #43E0EA;	
 }
+
+#touristImage {
+	padding: 10px;
+	display: inline;
+}
